@@ -1,11 +1,11 @@
 // Lista de redes sociais com nome e imagem local
 const redesSociais = [
-  { nome: "Instagram", imagem: "img/instagram.jpg" },
-  { nome: "YouTube",   imagem: "img/youtube.jpg"   },
-  { nome: "TikTok",    imagem: "img/tiktok.jpg"    },
-  { nome: "X",         imagem: "img/x.jpg"         },
-  { nome: "Discord",   imagem: "img/discord.jpg"   },
-  { nome: "Twitch",    imagem: "img/twitch.jpg"    },
+  { nome: "Porsche 911 Carrera Cabriolet", imagem: "./img/carro4.png"},
+  { nome: "Lamborguine Urus",   imagem: "img/carro5.png"   },
+  { nome: "BMW",    imagem: "img/carro7.jpg"    },
+  { nome: "Uno com escada",         imagem: "img/carro6.jpg"         },
+  { nome: "dbyd esportivo u9",   imagem: "./img/carro3.png"},
+  { nome: "ferrari",    imagem: "img/carro1.jpg"    },
 ];
 
 // Começa todos os votos zerados
